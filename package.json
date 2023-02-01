@@ -1,6 +1,6 @@
 {
-  "name": "@kqtickets/common",
-  "version": "1.0.5",
+  "name": "@kqaccounting/common",
+  "version": "1.0.0",
   "description": "",
   "main": "build/index.js",
   "types": "./build/index.d.ts",
